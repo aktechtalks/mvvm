@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Demo</string>
+    <string name="message_welcome">Hi\nWelcome\nYou are LoggedIn</string>
+</resources>
